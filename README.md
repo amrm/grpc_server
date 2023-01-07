@@ -1,4 +1,6 @@
-# grpc_client
+# gRPC Server
+
+
 # What is gRPC?
 
 gRPC (Google Remote Procedure Call)
