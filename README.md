@@ -1,5 +1,16 @@
 # gRPC Server
 
+Consume resources from server via Rest Template http://localhost:8081/client/product
+Consume resources from server via gRPC http://localhost:8082/server/grpc/product
+
+[Server Endpoint]
+
+http://localhost:8082/server/product
+http://localhost:8082/server/product/1
+
+[Null Object Design Pattern]
+
+http://localhost:8082/server/product/1111
 
 # What is gRPC?
 
